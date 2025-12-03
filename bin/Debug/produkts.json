@@ -1,0 +1,44 @@
+{
+    "Kurse": [
+        {
+            "ID": "K1",
+            "Name": "Kurs 1",
+            "Preis": 100,
+            "Sichtbar": true
+        },
+        {
+            "ID": "K2",
+            "Name": "Kurs 2",
+            "Preis": 120,
+            "Sichtbar": true
+        }
+    ],
+    "Bücher": [
+        {
+            "ID": "B1",
+            "Name": "Buch 1",
+            "Preis": 50,
+            "Sichtbar": true
+        },
+        {
+            "ID": "B2",
+            "Name": "Buch 2",
+            "Preis": 70,
+            "Sichtbar": true
+        }
+    ],
+    "Programme": [
+        {
+            "ID": "P1",
+            "Name": "Programm 1",
+            "Preis": 200,
+            "Sichtbar": true
+        },
+        {
+            "ID": "P2",
+            "Name": "Programm 2",
+            "Preis": 280,
+            "Sichtbar": true
+        }
+    ]
+}
