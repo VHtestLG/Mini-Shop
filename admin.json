@@ -1,0 +1,16 @@
+[
+    {
+        "Id": "1A",
+        "Vorname": "Max",
+        "Nachname": "Mustermann",
+        "Email": "max@shop.de",
+        "Passwort": "12345"
+    },
+    {
+        "Id": "2A",
+        "Vorname": "Anna",
+        "Nachname": "Admin",
+        "Email": "anna@shop.de",
+        "Passwort": "adminpass"
+    }
+]

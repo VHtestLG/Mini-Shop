@@ -1,0 +1,34 @@
+[
+  {
+    "Status": "Kunde",
+    "Id": "1KN",
+    "Vorname": "Julia",
+    "Nachname": "Kunde",
+    "Email": "julia@mail.de",
+    "Passwort": "pass123"
+  },
+  {
+    "Status": "Kunde",
+    "Id": "2KN",
+    "Vorname": "Peter",
+    "Nachname": "Kunde",
+    "Email": "peter@mail.de",
+    "Passwort": "qwerty"
+  },
+  {
+    "Status": "Kunde",
+    "Id": "K3KN",
+    "Vorname": "Kate",
+    "Nachname": "Karten",
+    "Email": "kate@mail.de",
+    "Passwort": "4212"
+  },
+  {
+    "Status": "Kunde",
+    "Id": "K4KN",
+    "Vorname": "Valeriia",
+    "Nachname": "Hryshko",
+    "Email": "valeriia@mail.de",
+    "Passwort": "pass456"
+  }
+]
